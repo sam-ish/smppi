@@ -1,3 +1,3 @@
-module github.com/sam-ish/smpp
+module github.com/sam-ish/smppi
 
 go 1.14

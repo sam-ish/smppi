@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/sam-ish/smpp"
+	smpp "github.com/sam-ish/smppi"
 	"github.com/sam-ish/smppi/pdu"
 )
 
